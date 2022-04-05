@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "keygenerator": "^1.0.4",
+    "sha3": "^2.1.4"
+  }
+}
